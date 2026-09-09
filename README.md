@@ -1,133 +1,219 @@
-# Hi, I'm Parth Deshmukh 👋
+<div align="center">
 
-### Data Science & Analytics Enthusiast | Developer
+# 👋 Hey, I'm **Parth Deshmukh**
 
-I'm a BCA graduate passionate about **Data Science, Data Analytics, Web Development, and Problem Solving**. I enjoy building practical projects and continuously learning new technologies.
+### `BCA Graduate` · `Developer` · `Data Science & Analytics Enthusiast`
 
-- 🎓 BCA Graduate
-- 📊 Exploring **Data Science & Data Analytics**
-- 💻 Web Development
-- 🚀 Building real-world projects
-- 🤝 Open to collaboration and learning opportunities
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+things+with+code+%F0%9F%9A%80;Exploring+Data+%26+Technology+%F0%9F%93%8A;Learning.+Building.+Improving.+%F0%9F%94%A5" alt="Typing SVG" />
+
+<p>
+  <a href="https://www.linkedin.com/in/parth45">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/parthd45">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-### 👨‍💻 Programming Languages
+```javascript
+const parth = {
+    education: "BCA Graduate",
+    interests: [
+        "Data Science",
+        "Data Analytics",
+        "Web Development"
+    ],
+    mindset: "Learn → Build → Improve 🚀"
+};
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+I'm interested in **Data Science, Data Analytics, and Web Development**.
 
-### 🌐 Frontend Development
+I enjoy turning ideas into working projects, experimenting with technology, and learning something new with every build.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+---
 
-### ⚙️ Backend Development
+# ⚡ Tech Stack
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
+
+<br><br>
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
+
+<br><br>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,php" />
+
+<br><br>
 
 ### 🗄️ Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-### 📊 Data Science & Analytics
+<br><br>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### 📊 Data & Analytics
 
-### 🧰 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=python" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br><br>
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Things I've Built
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🎓 DCPE ERP
 
-A college ERP platform designed to simplify academic and administrative workflows.
+A college ERP platform designed to simplify **academic and administrative workflows**.
 
-🔗 **Live Project:** [dcpe-erp.vercel.app](https://dcpe-erp.vercel.app/)
+**Stack**
 
----
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
+
+<br>
+
+🌐 **[View Live Project →](https://dcpe-erp.vercel.app/)**
+
+</td>
+
+<td width="50%">
 
 ### 🗳️ Automated Paperless Transparent College System
 
-A college management system designed to digitize college processes, including:
+A college-focused system designed to digitize college processes.
 
-- 🗳️ Student Elections
-- 🔐 Secure Voting
-- 📊 Live Election Results
-- 🏥 Health Notifications
-- 📝 Leave Management
+**Includes**
 
-**Tech Stack:** HTML • CSS • JavaScript • PHP • MySQL
+🗳️ Student Elections
+🔐 Secure Voting
+📊 Live Results
+🏥 Health Notifications
+📝 Leave Management
 
----
-
-## 📚 Currently Learning
-
-- 🐍 Python for Data Science
-- 📊 Data Analytics
-- 🗄️ Advanced SQL
-- 📈 Data Visualization
-- 🤖 Machine Learning
-- ⚛️ React.js
-- 🧠 Data Structures & Algorithms
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 Career Interests
+# 📚 Currently Exploring
 
-I'm interested in opportunities related to:
+<div align="center">
 
-**Data Analytics • Data Science • Software Development • Full-Stack Development**
+`🐍 Python for Data Science`
+`📊 Data Analytics`
+`🗄️ SQL`
+`📈 Data Visualization`
+`🤖 Machine Learning`
+`⚛️ React.js`
+`🧠 DSA & Problem Solving`
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthd45&show_icons=true&theme=tokyonight" alt="Parth's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthd45&theme=tokyonight" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
-## 🤝 Connect With Me
+# 🎯 What I'm Working Toward
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/parth45">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/parthd45">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+```text
+Data Analytics
+      ↓
+Data Science
+      ↓
+Software Development
+      ↓
+Full-Stack Development
+```
+
+I'm interested in opportunities where I can **learn, build real-world solutions, and grow as a developer**.
 
 ---
 
-### ⚡ Fun Fact
+# 🧠 My Developer Loop
 
-> I believe the best way to learn technology is to **build something with it.** 🚀
+<div align="center">
 
-⭐ Feel free to explore my repositories and connect with me!
+### `LEARN` → `BUILD` → `BREAK` → `DEBUG` → `IMPROVE` → `REPEAT` 🔁
+
+</div>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=parthd45&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=parthd45&theme=github-dark&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthd45&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/parth45">
+<img src="https://img.shields.io/badge/LinkedIn-Parth_Deshmukh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://github.com/parthd45">
+<img src="https://img.shields.io/badge/GitHub-parthd45-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"Build something. Break something. Learn something."*
+
+<br>
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
