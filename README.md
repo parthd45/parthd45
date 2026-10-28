@@ -99,7 +99,7 @@ I enjoy building practical projects and continuously learning new technologies.
 
 A college ERP platform designed to simplify academic and administrative workflows.
 
-- 🔗 Live project: [dcpe-erp.vercel.app](https://dcpe-erp.vercel.app/)
+- 🔗 Live project: [DCPE ERP](https://dcpe-erp.vercel.app/)
 - 🧩 Focus: College administration and academic workflows
 - ☁️ Deployment: Vercel
 
@@ -132,16 +132,11 @@ Features include:
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/parthd45/parthd45/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake dark animation"
-  />
-</p>
-
 ---
 
 ## 📈 GitHub Progress
+
+### 📊 GitHub Statistics
 
 <p align="center">
   <img
@@ -150,12 +145,16 @@ Features include:
   />
 </p>
 
+### 🔥 GitHub Contribution Streak
+
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=parthd45&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    src="https://streak-stats.demolab.com?user=parthd45&theme=tokyonight&hide_border=true"
     alt="Parth's GitHub contribution streak"
   />
 </p>
+
+### 📈 GitHub Activity Graph
 
 <p align="center">
   <img
@@ -185,7 +184,7 @@ Features include:
 | Data Analytics | 🟢 Exploring |
 | Advanced SQL | 🟡 Improving |
 | React.js | 🟡 Building |
-| Machine Learning | 🔵 Next mission |
+| Machine Learning | 🔵 Next Mission |
 | Data Structures | 🟢 Practicing |
 
 ---
@@ -206,12 +205,10 @@ Features include:
 
 I'm interested in opportunities related to:
 
-```text
-Data Analytics
-Data Science
-Software Development
-Full-Stack Development
-```
+- 📊 Data Analytics
+- 🤖 Data Science
+- 💻 Software Development
+- 🌐 Full-Stack Development
 
 ---
 
