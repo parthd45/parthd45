@@ -1,30 +1,151 @@
-## ◈ GITHUB DASHBOARD
+# ⚡ PARTH DESHMUKH
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GITHUB%20ANALYTICS-LIVE%20DASHBOARD-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=DATA+ANALYTICS+ENTHUSIAST;PYTHON+%7C+SQL+%7C+POWER+BI;WEB+DEVELOPER;TURNING+DATA+INTO+INSIGHTS;BUILDING+PROJECTS+EVERY+DAY" alt="Typing animation"/>
 </p>
-
-### ⚡ Overall Performance
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=parthd45&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthd45&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+  <img src="https://komarev.com/ghpvc/?username=parthd45&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/parthd45?style=for-the-badge&color=8B5CF6&logo=github&label=FOLLOWERS"/>
 </p>
 
-### 🔥 Contribution Streak
+---
+
+## 👨‍💻 ABOUT ME
+
+I'm **Parth Deshmukh**, a developer interested in Data Analytics, Python, SQL, Data Science and Web Development.
+
+I enjoy transforming raw data into insights and building applications that solve practical problems.
+
+- 📊 Data Analytics and Business Intelligence
+- 🐍 Python, NumPy and Pandas
+- 🗄️ SQL and database management
+- 📈 Tableau and Power BI dashboards
+- 🌐 Frontend and backend development
+- 💼 120-hour Web Development Internship at Ujwal Academy
+- 🚀 Building practical projects and learning every day
+
+---
+
+## 🛠️ TECH STACK
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,php,c,cpp&theme=dark"/>
+</p>
+
+### Data Analytics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter&theme=dark"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+### Web Development & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind,mysql,git,github,vscode,vercel&theme=dark"/>
+</p>
+
+---
+
+## 💼 EXPERIENCE
+
+### Web Developer Intern — Ujwal Academy, Amravati
+
+`JAN 2026 – APR 2026` | `120 HOURS`
+
+- Developed responsive website pages.
+- Worked on frontend components and functionality.
+- Tested and debugged website components.
+- Collaborated with the development team.
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+### 📊 Credit Card Customer Analytics Dashboard
+
+**Python | Pandas | Tableau**
+
+- Cleaned and prepared a 5,000-row dataset.
+- Explored customer patterns and financial metrics.
+- Created five analytical sheets.
+- Developed an interactive Tableau dashboard.
+
+### 🎓 DCPE ERP
+
+A college ERP platform for academic and administrative workflows.
+
+🔗 [View Live Project](https://dcpe-erp.vercel.app/)
+
+### 🗳️ Automated Paperless Transparent College System
+
+A college management project designed to digitize administrative processes.
+
+- Student elections and voting
+- Election result management
+- Health notifications
+- Leave management
+
+**Technologies:** HTML, CSS, JavaScript, PHP, MySQL
+
+---
+
+# ⚡ PARTH'S GITHUB WRAPPED
 
 <p align="center">
-  <img width="85%" src="https://streak-stats.demolab.com?user=parthd45&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=FF4D6D&currStreakLabel=00E5FF&sideLabels=9B9B9B&dates=888888" alt="GitHub Streak"/>
+  <img src="https://img.shields.io/badge/GITHUB-WRAPPED%20DASHBOARD-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
-### 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=parthd45&bg_color=0D1117&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Contribution Activity"/>
+  <img src="https://raw.githubusercontent.com/parthd45/parthd45/main/dashboard.svg" width="100%" alt="Parth's live GitHub dashboard"/>
 </p>
 
-### 🐍 Contribution Snake
+---
+
+## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/parthd45/parthd45/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/parthd45/parthd45/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 </p>
+
+---
+
+## 🎯 MY DEVELOPER QUEST
+
+| Skill | Status |
+|---|---|
+| Python & NumPy | Practiced |
+| Pandas | Practiced |
+| Matplotlib & Seaborn | Practiced |
+| SQL | Improving |
+| Tableau | Project built |
+| Power BI | Building |
+| Machine Learning | Next milestone |
+| Web Development | Internship completed |
+
+---
+
+## 🤝 CONNECT WITH ME
+
+<p align="center">
+  <a href="https://github.com/parthd45">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/parth45">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:5145CD,100:9B72FF&height=130&section=footer"/>
+</p>
+
+<h3 align="center">⚡ LEARN. BUILD. ANALYZE. IMPROVE. REPEAT.</h3>
+
+<p align="center">Thanks for visiting my profile! ⭐</p>
