@@ -96,16 +96,10 @@ A college management project designed to digitize administrative processes.
 
 ---
 
-# ⚡ PARTH'S GITHUB WRAPPED
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GITHUB-WRAPPED%20DASHBOARD-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+## 📊 My GitHub Wrapped
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/parthd45/parthd45/main/dashboard.svg" width="100%" alt="Parth's live GitHub dashboard"/>
-</p>
-
+![GitHub Dashboard](assets/dashboard.svg)
 ---
 
 ## 🐍 CONTRIBUTION SNAKE
