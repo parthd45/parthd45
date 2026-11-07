@@ -1,34 +1,36 @@
 
-name: Update GitHub Wrapped Dashboard
+name: Update GitHub Dashboard
 
 on:
-  schedule:
-    - cron: "0 2 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  dashboard:
+  build-dashboard:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Generate Dashboard
+      - name: Generate dashboard
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
         run: python scripts/dashboard.py
 
-      - name: Commit Dashboard
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Update GitHub Wrapped dashboard"
-          file_pattern: dashboard.svg
+      - name: Commit dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/dashboard.svg
+          git diff --cached --quiet || git commit -m "Update GitHub dashboard"
+          git push
