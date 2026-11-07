@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/parthd45">
-    <img src="https://komarev.com/ghpvc/?username=parthd45&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=parthd45&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
   </a>
   <a href="https://github.com/parthd45?tab=followers">
-    <img src="https://img.shields.io/github/followers/parthd45?style=for-the-badge&color=7B61FF&logo=github&label=FOLLOWERS" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/parthd45?style=for-the-badge&color=7B61FF&logo=github&label=FOLLOWERS"/>
   </a>
 </p>
 
@@ -39,32 +39,32 @@ I enjoy transforming raw data into meaningful insights and building practical ap
 
 ## 🛠️ TECH STACK
 
-### Programming Languages
+### 🐍 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,php,c,cpp&theme=dark" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=python,js,php,c,cpp&theme=dark"/>
 </p>
 
-### Data Analytics & Visualization
+### 📊 Data Analytics & Visualization
 
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter&theme=dark" alt="Data analytics tools"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter&theme=dark"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
-### Web Development
+### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind&theme=dark" alt="Web development"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind&theme=dark"/>
 </p>
 
-### Databases & Developer Tools
+### 🗄️ Databases & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,vercel&theme=dark" alt="Developer tools"/>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,vercel&theme=dark"/>
 </p>
 
 ---
@@ -75,7 +75,7 @@ I enjoy transforming raw data into meaningful insights and building practical ap
 
 **January 2026 – April 2026 | 120 Internship Hours**
 
-- Contributed to the academy's official dynamic website.
+- Contributed to the development of the academy's official dynamic website.
 - Designed and developed responsive web pages.
 - Worked on frontend components and website functionality.
 - Tested and debugged components to improve reliability.
@@ -89,7 +89,7 @@ I enjoy transforming raw data into meaningful insights and building practical ap
 
 **Python | Pandas | Tableau**
 
-A data analytics project focused on exploring customer data and presenting insights through an interactive dashboard.
+A data analytics project focused on exploring customer data and presenting insights through an interactive Tableau dashboard.
 
 - Cleaned and prepared a 5,000-row dataset using Python and Pandas.
 - Explored customer patterns and financial metrics.
@@ -125,23 +125,8 @@ Features planned or implemented:
 
 ## 📊 GITHUB ANALYTICS
 
-### ⚡ GitHub Statistics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthd45&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthd45&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top programming languages"/>
-</p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=parthd45&theme=tokyonight&hide_border=true" width="80%" alt="GitHub contribution streak"/>
-</p>
-
-### 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthd45&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub activity graph"/>
+  <img src="https://raw.githubusercontent.com/parthd45/parthd45/output/github-metrics.svg" width="100%" alt="GitHub Analytics"/>
 </p>
 
 ---
@@ -152,7 +137,7 @@ Features planned or implemented:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parthd45/parthd45/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parthd45/parthd45/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/parthd45/parthd45/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake"/>
+    <img src="https://raw.githubusercontent.com/parthd45/parthd45/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
   </picture>
 </p>
 
@@ -172,7 +157,7 @@ Features planned or implemented:
 ║  LONG TERM GOAL       : JOB READY            ║
 ║                                              ║
 ║  CURRENT SKILL QUESTS                        ║
-║  Python & NumPy       : COMPLETED/PRACTICED  ║
+║  Python & NumPy       : PRACTICED             ║
 ║  Pandas               : PRACTICED             ║
 ║  Matplotlib/Seaborn   : PRACTICED             ║
 ║  SQL                  : IMPROVING             ║
@@ -188,16 +173,16 @@ Features planned or implemented:
 
 ## 🎯 CAREER INTERESTS
 
-| Area | Interests |
+| Domain | Interests |
 |---|---|
-| Data Analytics | Data Cleaning, EDA, Business Insights |
-| Python | Data Analysis, Automation |
-| SQL | Queries, Database Management |
-| Business Intelligence | Power BI, Tableau |
-| Data Science | Predictive Analytics, ML |
-| Development | Frontend and Backend |
+| 📊 Data Analytics | Data Cleaning, EDA, Business Insights |
+| 🐍 Python | Data Analysis, Automation |
+| 🗄️ SQL | Queries, Database Management |
+| 📈 Business Intelligence | Power BI, Tableau |
+| 🤖 Data Science | Predictive Analytics, Machine Learning |
+| 🌐 Development | Frontend and Backend |
 
-I'm interested in collaborating on meaningful projects, learning from experienced professionals and exploring internship and entry-level opportunities.
+Interested in collaborating on meaningful projects, learning from experienced professionals and exploring internship and entry-level opportunities.
 
 ---
 
@@ -205,15 +190,15 @@ I'm interested in collaborating on meaningful projects, learning from experience
 
 <p align="center">
   <a href="https://github.com/parthd45">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/parth45">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:5145CD,100:9B72FF&height=130&section=footer" alt="Footer animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:5145CD,100:9B72FF&height=130&section=footer"/>
 </p>
 
 <h3 align="center">⚡ LEARN. BUILD. ANALYZE. IMPROVE. REPEAT.</h3>
