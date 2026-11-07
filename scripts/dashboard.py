@@ -1,106 +1,96 @@
-    x, y, w, h = 620, 650, 540, 220
-    svg.rect(x, y, w, h, c["panel"], 18, c["border"])
-    svg.text(x + 22, y + 32, "REPOSITORY HIGHLIGHTS", 14, c["text"], "bold")
+"""
+PARTH'S GITHUB WRAPPED DASHBOARD
+================================
+Generates a single, modern SVG dashboard using real GitHub GraphQL data.
 
-    top_repos = sorted(
-        repositories,
-        key=lambda repo: (
-            int(repo.get("stargazerCount", 0)),
-            int(repo.get("forkCount", 0))
-        ),
-        reverse=True
-    )[:CONFIG["top_repositories_to_show"]]
+Repository layout:
+    README.md
+    dashboard.svg                 # generated automatically
+    scripts/dashboard.py          # this file
+    .github/workflows/dashboard.yml
 
-    if not top_repos:
-        svg.text(x + 22, y + 85, "No public repositories found.", 13, c["muted"])
-        return
+Required environment variable:
+    GH_TOKEN or GITHUB_TOKEN
 
-    for index, repo in enumerate(top_repos):
-        row_y = y + 76 + index * 34
-        name = repo.get("name", "Repository")
-        language = (repo.get("primaryLanguage") or {}).get("name", "N/A")
-        stars = int(repo.get("stargazerCount", 0))
-        forks = int(repo.get("forkCount", 0))
+GitHub Actions should provide:
+    GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-        svg.text(x + 22, row_y, name[:30], 13, c["cyan"], "bold")
-        svg.text(x + 22, row_y + 16, language, 10, c["muted"])
-        svg.text(
-            x + w - 22, row_y + 2,
-            f"★ {stars}    Forks {forks}",
-            11, c["yellow"], anchor="end"
-        )
+Customize the CONFIG section below to change the username, colours,
+dashboard title, card labels, and number of repositories displayed.
+No third-party Python packages are required.
+"""
 
-
-def render_dashboard(user, year, today):
-    c = CONFIG
-    width, height = c["width"], c["height"]
-    svg = SVG(width, height)
-
-    svg.add(
-        f'<svg xmlns="http://www.w3.org/2000/svg" '
-        f'width="{width}" height="{height}" '
-        f'viewBox="0 0 {width} {height}" role="img" '
-        f'aria-label="GitHub Wrapped dashboard for {html.escape(user["login"])}">'
-    )
-    add_defs(svg)
-    svg.add(
-        f'<rect width="{width}" height="{height}" rx="24" '
-        f'fill="url(#backgroundGradient)"/>'
-    )
-    svg.add(
-        f'<rect x="1" y="1" width="{width-2}" height="{height-2}" '
-        f'rx="24" fill="none" stroke="{c["border"]}"/>'
-    )
-
-    days = get_contribution_days(user)
-    repositories = user["repositories"]["nodes"]
-
-    draw_header(svg, user, year)
-    draw_heatmap(svg, days)
-    draw_stats(svg, user, days, today)
-    draw_languages(svg, repositories)
-    draw_repositories(svg, repositories)
-
-    svg.text(
-        40, 900,
-        f"Generated {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}  •  "
-        f"Source: GitHub GraphQL API  •  @{user['login']}",
-        11, c["muted"]
-    )
-
-    svg.add("</svg>")
-    return svg.finish()
+import html
+import json
+import os
+import sys
+import urllib.error
+import urllib.request
+from collections import defaultdict
+from datetime import date, datetime, timedelta, timezone
+from pathlib import Path
 
 
 # ============================================================
-# MAIN
+# CONFIG — EDIT THESE SETTINGS
 # ============================================================
 
-def main():
-    username = CONFIG["username"]
-    output_path = Path(CONFIG["output_file"])
+CONFIG = {
+    "username": "parthd45",
+    "dashboard_title": "GITHUB WRAPPED",
+    "subtitle": "A YEAR OF BUILDING, LEARNING & CONTRIBUTING",
+    "output_file": "dashboard.svg",
 
-    print(f"Fetching GitHub data for @{username}...")
-    user, year = fetch_github_profile(username)
+    # Canvas size
+    "width": 1200,
+    "height": 920,
 
-    print("Preparing contribution and repository statistics...")
-    svg_content = render_dashboard(user, year, date.today())
+    # Number of public repositories to inspect for stars/languages.
+    # GitHub GraphQL returns up to 100 repositories in this script.
+    "repository_sample_size": 100,
 
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-    output_path.write_text(svg_content, encoding="utf-8")
+    # Show this many repositories in the repository panel.
+    "top_repositories_to_show": 4,
 
-    print(f"Dashboard generated: {output_path.resolve()}")
-    print(f"Repositories returned: {len(user['repositories']['nodes'])}")
-    print(
-        "Contributions this year: "
-        f"{user['contributionsCollection']['contributionCalendar']['totalContributions']}"
-    )
-    print("Done!")
+    # Theme colours
+    "background": "#090D18",
+    "panel": "#111827",
+    "panel_alt": "#151E2E",
+    "border": "#263449",
+    "text": "#F3F4F6",
+    "muted": "#94A3B8",
+    "cyan": "#00E5FF",
+    "purple": "#A78BFA",
+    "green": "#34D399",
+    "yellow": "#FBBF24",
+    "pink": "#FB7185",
+
+    # Contribution heatmap levels
+    "heatmap_colors": [
+        "#172033",  # 0 contributions
+        "#064E3B",  # 1–2
+        "#047857",  # 3–5
+        "#10B981",  # 6–9
+        "#6EE7B7",  # 10+
+    ],
+}
 
 
-if __name__ == "__main__":
-    try:
-        main()
-    except Exception as error:
-        print(f"ERROR: {error}", file=sys.stderr)
-        sys.exit(1)
+# ============================================================
+# GITHUB GRAPHQL
+# ============================================================
+
+GRAPHQL_URL = "https://api.github.com/graphql"
+
+QUERY = """
+query($login: String!, $from: DateTime!, $to: DateTime!) {
+  user(login: $login) {
+    name
+    login
+    avatarUrl
+    bio
+    followers {
+      totalCount
+    }
+    following {
+      totalCount
