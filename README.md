@@ -1,230 +1,230 @@
-# 👋 Hi, I'm Parth Deshmukh
+# ⚡ PARTH DESHMUKH
+### Data Analytics | Python Developer | Web Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Web+Developer;Turning+Data+Into+Insights;Building+Projects+and+Learning+Every+Day" alt="Typing introduction" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/parthd45">
-    <img src="https://komarev.com/ghpvc/?username=parthd45&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  </a>
-  <a href="https://github.com/parthd45?tab=followers">
-    <img src="https://img.shields.io/github/followers/parthd45?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=Turning+Data+Into+Intelligence.;Building+Things+That+Matter.;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Developer+by+Passion.+Analyst+by+Mindset." />
 </p>
 
 <p align="center">
   <a href="https://github.com/parthd45">
-    <img src="https://img.shields.io/badge/Focus-Data%20Analytics-blue?style=flat-square" alt="Main focus" />
+    <img src="https://komarev.com/ghpvc/?username=parthd45&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
   </a>
-  <img src="https://img.shields.io/badge/Experience-Web%20Development%20Intern-green?style=flat-square" alt="Web development internship" />
-  <img src="https://img.shields.io/badge/Mindset-Always%20Learning-purple?style=flat-square" alt="Learning mindset" />
+  <img src="https://img.shields.io/github/followers/parthd45?style=for-the-badge&color=7B61FF&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/badge/STATUS-BUILDING%20AND%20LEARNING-00C896?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-00D9FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SECONDARY-WEB%20DEVELOPMENT-9B72FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MINDSET-ALWAYS%20BUILDING-00C896?style=flat-square"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## ◈ 01 / THE DEVELOPER
 
-I'm Parth Deshmukh, a developer interested in **Data Analytics, Python, SQL, and Web Development**. I enjoy transforming raw data into meaningful insights and building practical applications that solve real-world problems.
+> "I don't just write code. I explore data, solve problems, and build solutions."
 
-- 📊 Building my skills in Data Analytics and Data Science
-- 🐍 Working with Python, NumPy, Pandas, and data visualization
-- 🗄️ Practicing SQL and database management
-- 🌐 Exploring frontend and backend web development
-- 💼 Completed a 120-hour Web Development Internship at Ujwal Academy
-- 🚀 Building projects to strengthen my technical and problem-solving skills
-- 🤝 Open to collaboration, internships, and learning opportunities
+Hey! I'm **Parth Deshmukh**, a developer passionate about Data Analytics, Python, SQL, and Web Development.
+
+I enjoy working at the intersection of technology and data — transforming raw information into meaningful insights while building applications that solve practical problems.
+
+- 📊 Exploring Data Analytics and Business Intelligence.
+- 🐍 Working with Python, NumPy, Pandas and visualization libraries.
+- 🗄️ Practicing SQL and database management.
+- 📈 Building interactive dashboards using Tableau and Power BI.
+- 🌐 Exploring frontend and backend development.
+- 💼 Completed a 120-hour Web Development Internship at Ujwal Academy.
+- 🚀 Continuously developing projects and improving technical skills.
 
 ---
 
-## 🛠️ Tech Stack
+## ◈ 02 / TECH ARSENAL
 
-### 🐍 Programming Languages
+### `PROGRAMMING LANGUAGES`
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://skillicons.dev/icons?i=python,js,php,c,cpp&theme=dark"/>
 </p>
 
-### 📊 Data Analytics and Visualization
+### `DATA ANALYTICS`
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib&theme=dark"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=jupyter&theme=dark"/>
 </p>
 
-### 🌐 Web Development
+### `WEB DEVELOPMENT`
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind&theme=dark"/>
 </p>
 
-### 🗄️ Databases and Tools
+### `DATABASES & TOOLS`
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,vercel&theme=dark"/>
 </p>
 
 ---
 
-## 💼 Internship Experience
+## ◈ 03 / PROFESSIONAL EXPERIENCE
 
-### Web Developer Intern | Ujwal Academy, Amravati
-**January 2026 – April 2026 | 120 Internship Hours**
+### 💼 Web Developer Intern
+**Ujwal Academy, Amravati**
+
+`JAN 2026 — APR 2026` | `120 INTERNSHIP HOURS`
 
 - Contributed to the development of the academy's official dynamic website.
-- Designed and developed responsive web pages and user-friendly interfaces.
+- Designed and developed responsive web pages.
 - Worked on frontend components and website functionality.
-- Tested and debugged website components to improve reliability and user experience.
-- Collaborated with the development team to deliver a functional web application.
+- Tested and debugged components to improve reliability.
+- Collaborated with the development team on a functional web application.
 
 ---
 
-## 🚀 Featured Projects
+## ◈ 04 / SELECTED PROJECTS
 
-### 📊 Credit Card Customer Analytics Dashboard
+### ◉ 01 — Credit Card Customer Analytics Dashboard
 
-A data analytics project focused on exploring customer data and presenting insights through an interactive Tableau dashboard.
+**Data Analytics | Tableau | Python**
 
-- 🐍 Used Python and Pandas for data cleaning and preparation.
-- 📊 Created visualizations to explore customer patterns and financial metrics.
-- 📈 Developed a Tableau dashboard with multiple analytical views.
+An analytical project focused on exploring credit card customer data and converting raw information into useful business insights.
 
-**Technologies:** Python, Pandas, Tableau
+- Cleaned and prepared a 5,000-row dataset using Python and Pandas.
+- Explored customer patterns and financial metrics.
+- Created five analytical sheets.
+- Developed an interactive Tableau dashboard.
 
-<!-- Add your actual GitHub repository and Tableau Public links here. -->
+`PYTHON` `PANDAS` `TABLEAU` `DATA VISUALIZATION`
 
-### 🎓 DCPE ERP
+### ◉ 02 — DCPE ERP
+
+**College Management Platform**
 
 A college ERP platform designed to simplify academic and administrative workflows.
 
-- 🔗 [Live Project](https://dcpe-erp.vercel.app/)
-- 🎯 Focus: College administration and academic workflows
-- ☁️ Deployment: Vercel
+- College administration.
+- Academic workflow management.
+- Web-based platform.
 
-### 🗳️ Automated Paperless Transparent College System
+🔗 **[Explore Live Project](https://dcpe-erp.vercel.app/)**
 
-A college management system designed to digitize administrative processes.
+`HTML` `CSS` `JAVASCRIPT` `WEB DEVELOPMENT`
 
-**Planned or implemented features, depending on your project version:**
-- Student elections and voting
-- Election result management
-- Health notifications
-- Leave management
+### ◉ 03 — Automated Paperless Transparent College System
 
-**Technologies:** HTML, CSS, JavaScript, PHP, MySQL
+**Digital College Management**
+
+A college management concept designed to digitize administrative processes.
+
+Planned or implemented features:
+
+- Student elections and voting.
+- Election result management.
+- Health notifications.
+- Leave management.
+
+`HTML` `CSS` `JAVASCRIPT` `PHP` `MYSQL`
 
 ---
 
-## 🔥 GitHub Contribution Streak
+## ◈ 05 / GITHUB PERFORMANCE
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=parthd45&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=parthd45&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=9B72FF&text_color=C9D1D9&rank_icon=github&cache_seconds=86400" alt="GitHub statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthd45&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&cache_seconds=86400" alt="Most used languages"/>
+</p>
+
+### ⚡ Contribution Streak
+
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=parthd45&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=9B72FF&currStreakLabel=00F5FF" alt="GitHub contribution streak"/>
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=parthd45&bg_color=0D1117&color=00F5FF&line=7B61FF&point=FFFFFF&area=true&area_color=312E81&hide_border=true&custom_title=PARTH'S%20CONTRIBUTION%20GRAPH" alt="GitHub contribution activity graph"/>
 </p>
 
 ---
 
-## 📈 GitHub Statistics
+## ◈ 06 / CONTRIBUTION SNAKE
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=parthd45&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthd45&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</p>
-
-### 📊 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthd45&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/parthd45/parthd45/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/parthd45/parthd45/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-</p>
-
-**Note:** The snake animation requires a GitHub Actions workflow to generate and publish the SVG to the `output` branch. If the image does not appear, check that workflow and branch.
-
----
-
-## 🎮 Developer Quest
+## ◈ 07 / DEVELOPER PROGRESS
 
 ```text
-╔══════════════════════════════════════════════╗
-║             ⚔️ PARTH'S QUEST                 ║
-╠══════════════════════════════════════════════╣
-║  🐍 Developer Mode      : ACTIVE             ║
-║  📊 Main Mission        : Data Analytics     ║
-║  💻 Side Mission        : Web Development    ║
-║  🧠 Daily Objective     : Learn and Build    ║
-║  🚀 Long-Term Goal      : Become Job-Ready   ║
-╚══════════════════════════════════════════════╝
+╭──────────────────────────────────────────────╮
+│              PARTH.EXE                       │
+├──────────────────────────────────────────────┤
+│                                              │
+│  IDENTITY       : DEVELOPER                  │
+│  PRIMARY FOCUS  : DATA ANALYTICS              │
+│  SECONDARY      : WEB DEVELOPMENT            │
+│  CURRENT MODE   : CONTINUOUS LEARNING         │
+│                                              │
+│  ┌────────────────────────────────────────┐  │
+│  │              ACTIVE QUESTS             │  │
+│  ├────────────────────────────────────────┤  │
+│  │ Python & NumPy           [ COMPLETE ]  │  │
+│  │ Pandas                   [ PRACTICED ] │  │
+│  │ Matplotlib & Seaborn     [ PRACTICED ] │  │
+│  │ Tableau                  [ PROJECT ]   │  │
+│  │ SQL                      [ IMPROVING ] │  │
+│  │ Power BI                 [ BUILDING ]  │  │
+│  │ Machine Learning         [ NEXT LEVEL ]│  │
+│  │ Web Development          [ COMPLETED ] │  │
+│  └────────────────────────────────────────┘  │
+│                                              │
+│  NEXT MISSION : BECOME JOB-READY             │
+│                                              │
+╰──────────────────────────────────────────────╯
 ```
 
-| Quest | Status |
+---
+
+## ◈ 08 / CAREER INTERESTS
+
+| Domain | Interests |
 |---|---|
-| Python for Data Analytics | 🟢 Practicing |
-| NumPy and Pandas | 🟢 Practiced |
-| Data Visualization | 🟢 Practicing |
-| SQL | 🟡 Improving |
-| Tableau Dashboards | 🟢 Built a project |
-| Power BI | 🔵 Project development |
-| Machine Learning | 🔵 Next milestone |
-| Web Development | 🟢 Internship completed |
-| Portfolio Projects | 🚀 In progress |
+| 📊 Data Analytics | Data Cleaning, EDA, Business Insights |
+| 🐍 Python | Automation, Data Analysis |
+| 🗄️ SQL | Queries, Database Management |
+| 📈 BI | Power BI, Tableau, Dashboards |
+| 🤖 Data Science | Predictive Analytics, Machine Learning |
+| 🌐 Development | Frontend and Backend Applications |
 
-*Update the statuses as your skills and projects progress.*
+Interested in collaborating on meaningful projects, learning from experienced developers, and exploring internship and entry-level opportunities.
 
 ---
 
-## 🎯 Career Interests
+## ◈ 09 / CONNECT WITH ME
 
-I'm interested in opportunities involving:
-
-- 📊 Data Analytics and Business Intelligence
-- 🐍 Python-based data analysis
-- 🗄️ SQL and database querying
-- 📈 Dashboard development and data visualization
-- 💻 Software and Web Development
-
-I'm particularly interested in opportunities where I can apply my technical skills, learn from experienced professionals, and contribute to practical projects.
-
----
-
-## 🤝 Connect With Me
-
-<p>
+<p align="center">
   <a href="https://github.com/parthd45">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/parth45">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:5145CD,100:9B72FF&height=120&section=footer"/>
+</p>
+
+<h3 align="center">⚡ LEARN. BUILD. ANALYZE. IMPROVE. REPEAT.</h3>
 
 <p align="center">
-  <b>💡 Learn. Build. Analyze. Improve. Repeat.</b>
-  <br />
-  Thanks for visiting my profile! ⭐
+  <i>Thanks for visiting my digital workspace. Let's build something meaningful!</i> ⭐
 </p>
