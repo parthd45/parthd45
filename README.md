@@ -1,51 +1,51 @@
 # ⚡ PARTH DESHMUKH
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Web+Developer;Turning+Data+Into+Insights;Building+Projects+Every+Day" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=DATA+ANALYTICS+ENTHUSIAST;PYTHON+%7C+SQL+%7C+POWER+BI;WEB+DEVELOPER;TURNING+DATA+INTO+INSIGHTS;BUILDING+SOMETHING+EVERY+DAY" alt="Animated introduction"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/parthd45">
-    <img src="https://komarev.com/ghpvc/?username=parthd45&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
+    <img src="https://komarev.com/ghpvc/?username=parthd45&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS"/>
   </a>
   <a href="https://github.com/parthd45?tab=followers">
-    <img src="https://img.shields.io/github/followers/parthd45?style=for-the-badge&color=7B61FF&logo=github&label=FOLLOWERS"/>
+    <img src="https://img.shields.io/github/followers/parthd45?style=for-the-badge&color=8B5CF6&logo=github&label=FOLLOWERS"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-00D9FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ROLE-WEB%20DEVELOPER-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-00E5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DEVELOPMENT-WEB%20TECH-8B5CF6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-00C896?style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💻 ABOUT ME
+## ◈ 01 — ABOUT ME
 
-Hey! I'm **Parth Deshmukh**, a developer passionate about Data Analytics, Python, SQL and Web Development.
+Hey! I'm **Parth Deshmukh**, a developer interested in Data Analytics, Python, SQL, Data Science and Web Development.
 
-I enjoy transforming raw data into meaningful insights and building practical applications that solve real-world problems.
+I love exploring data, discovering patterns, creating dashboards and building applications that solve real-world problems.
 
-- 📊 Developing skills in Data Analytics and Data Science.
-- 🐍 Working with Python, NumPy, Pandas and data visualization.
+- 📊 Exploring Data Analytics and Business Intelligence.
+- 🐍 Working with Python, NumPy and Pandas.
 - 🗄️ Practicing SQL and database management.
-- 📈 Building dashboards using Tableau and Power BI.
+- 📈 Creating interactive Tableau and Power BI dashboards.
 - 🌐 Exploring frontend and backend development.
 - 💼 Completed a 120-hour Web Development Internship at Ujwal Academy.
-- 🚀 Building projects and improving my problem-solving skills.
+- 🚀 Building projects and continuously improving my skills.
 
 ---
 
-## 🛠️ TECH STACK
+## ◈ 02 — TECH STACK
 
-### 🐍 Programming Languages
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,php,c,cpp&theme=dark"/>
 </p>
 
-### 📊 Data Analytics & Visualization
+### Data Analytics & Visualization
 
 <p>
   <img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter&theme=dark"/>
@@ -55,13 +55,13 @@ I enjoy transforming raw data into meaningful insights and building practical ap
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
-### 🌐 Web Development
+### Web Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind&theme=dark"/>
 </p>
 
-### 🗄️ Databases & Tools
+### Database & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,vercel&theme=dark"/>
@@ -69,140 +69,164 @@ I enjoy transforming raw data into meaningful insights and building practical ap
 
 ---
 
-## 💼 INTERNSHIP EXPERIENCE
+## ◈ 03 — EXPERIENCE
 
-### Web Developer Intern — Ujwal Academy, Amravati
+### 💼 Web Developer Intern — Ujwal Academy, Amravati
 
-**January 2026 – April 2026 | 120 Internship Hours**
+`JANUARY 2026 — APRIL 2026` | `120 HOURS`
 
-- Contributed to the development of the academy's official dynamic website.
+- Contributed to the academy's official dynamic website.
 - Designed and developed responsive web pages.
 - Worked on frontend components and website functionality.
-- Tested and debugged components to improve reliability.
-- Collaborated with the development team to deliver a functional web application.
+- Tested and debugged components.
+- Collaborated with the development team.
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## ◈ 04 — FEATURED PROJECTS
 
-### 📊 01. Credit Card Customer Analytics Dashboard
+### 📊 Credit Card Customer Analytics Dashboard
 
-**Python | Pandas | Tableau**
+**Python • Pandas • Tableau**
 
-A data analytics project focused on exploring customer data and presenting insights through an interactive Tableau dashboard.
+An analytical project focused on exploring customer data and presenting useful business insights.
 
-- Cleaned and prepared a 5,000-row dataset using Python and Pandas.
+- Cleaned a 5,000-row dataset using Python and Pandas.
 - Explored customer patterns and financial metrics.
 - Created five analytical sheets.
 - Developed an interactive Tableau dashboard.
 
-**Technologies:** Python, Pandas, Tableau
-
-### 🎓 02. DCPE ERP
+### 🎓 DCPE ERP
 
 A college ERP platform designed to simplify academic and administrative workflows.
 
-- College administration.
-- Academic workflow management.
-- Web-based platform.
+🔗 [Explore Live Project](https://dcpe-erp.vercel.app/)
 
-🔗 [View Live Project](https://dcpe-erp.vercel.app/)
+### 🗳️ Automated Paperless Transparent College System
 
-### 🗳️ 03. Automated Paperless Transparent College System
-
-A college management project designed to digitize administrative processes.
-
-Features planned or implemented:
+A college management system designed to digitize administrative processes.
 
 - Student elections and voting.
 - Election result management.
 - Health notifications.
 - Leave management.
 
-**Technologies:** HTML, CSS, JavaScript, PHP, MySQL
+**Technologies:** HTML, CSS, JavaScript, PHP, MySQL.
 
 ---
 
-## 📊 GITHUB ANALYTICS
+# ◈ 05 — GITHUB COMMAND CENTER
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/parthd45/parthd45/output/github-metrics.svg" width="100%" alt="GitHub Analytics"/>
+  <img src="https://img.shields.io/badge/DEVELOPER%20DASHBOARD-GITHUB%20INSIGHTS-00E5FF?style=for-the-badge&logo=github"/>
+</p>
+
+### ⚡ GitHub Overview
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=parthd45&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Overview"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthd45&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img width="90%" src="https://streak-stats.demolab.com?user=parthd45&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=FF4D6D&currStreakLabel=00E5FF&sideLabels=9B9B9B&dates=888888" alt="Contribution Streak"/>
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=parthd45&bg_color=0D1117&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CODING%20ACTIVITY" alt="Contribution Activity"/>
+</p>
+
+### 📅 Contribution Calendar
+
+<p align="center">
+  <img width="100%" src="https://ghchart.rshah.org/00E5FF/parthd45" alt="GitHub Contribution Calendar"/>
+</p>
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=parthd45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## ◈ 06 — CONTRIBUTION SNAKE
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parthd45/parthd45/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parthd45/parthd45/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/parthd45/parthd45/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
+    <img width="100%" src="https://raw.githubusercontent.com/parthd45/parthd45/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
   </picture>
 </p>
 
 ---
 
-## 🎮 DEVELOPER QUEST
+## ◈ 07 — DEVELOPER QUEST
 
 ```text
 ╔══════════════════════════════════════════════╗
-║                 PARTH.EXE                    ║
+║                PARTH.EXE                     ║
 ╠══════════════════════════════════════════════╣
 ║                                              ║
-║  DEVELOPER MODE       : ACTIVE               ║
-║  MAIN MISSION         : DATA ANALYTICS       ║
-║  SIDE MISSION         : WEB DEVELOPMENT     ║
-║  DAILY OBJECTIVE      : LEARN & BUILD        ║
-║  LONG TERM GOAL       : JOB READY            ║
+║  STATUS             : ACTIVE                 ║
+║  MAIN MISSION       : DATA ANALYTICS         ║
+║  SIDE MISSION       : WEB DEVELOPMENT       ║
+║  CURRENT MODE       : BUILDING PROJECTS      ║
 ║                                              ║
-║  CURRENT SKILL QUESTS                        ║
-║  Python & NumPy       : PRACTICED             ║
-║  Pandas               : PRACTICED             ║
-║  Matplotlib/Seaborn   : PRACTICED             ║
-║  SQL                  : IMPROVING             ║
-║  Tableau              : PROJECT BUILT         ║
-║  Power BI             : BUILDING              ║
-║  Machine Learning     : NEXT MILESTONE       ║
-║  Web Development      : INTERNSHIP COMPLETED ║
+║  SKILL PROGRESS                             ║
+║  Python / NumPy      : PRACTICED             ║
+║  Pandas              : PRACTICED             ║
+║  Visualization       : PRACTICED             ║
+║  SQL                 : IMPROVING             ║
+║  Tableau             : PROJECT BUILT         ║
+║  Power BI            : BUILDING              ║
+║  Machine Learning    : NEXT LEVEL            ║
+║  Web Development     : INTERNSHIP COMPLETED  ║
+║                                              ║
+║  NEXT TARGET        : DATA ANALYST           ║
 ║                                              ║
 ╚══════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🎯 CAREER INTERESTS
+## ◈ 08 — CAREER INTERESTS
 
-| Domain | Interests |
+| Field | Focus |
 |---|---|
-| 📊 Data Analytics | Data Cleaning, EDA, Business Insights |
+| 📊 Data Analytics | Data Cleaning, EDA, Insights |
 | 🐍 Python | Data Analysis, Automation |
 | 🗄️ SQL | Queries, Database Management |
-| 📈 Business Intelligence | Power BI, Tableau |
-| 🤖 Data Science | Predictive Analytics, Machine Learning |
-| 🌐 Development | Frontend and Backend |
+| 📈 BI | Power BI, Tableau |
+| 🤖 Data Science | Predictive Analytics, ML |
+| 🌐 Development | Frontend, Backend |
 
-Interested in collaborating on meaningful projects, learning from experienced professionals and exploring internship and entry-level opportunities.
+Open to internships, collaborations and opportunities to work on meaningful projects.
 
 ---
 
-## 🤝 CONNECT WITH ME
+## ◈ 09 — CONNECT WITH ME
 
 <p align="center">
   <a href="https://github.com/parthd45">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/parth45">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:5145CD,100:9B72FF&height=130&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:5145CD,100:9B72FF&height=140&section=footer"/>
 </p>
 
 <h3 align="center">⚡ LEARN. BUILD. ANALYZE. IMPROVE. REPEAT.</h3>
 
 <p align="center">
-  Thanks for visiting my profile! ⭐
+  <i>Thanks for visiting my profile. Let's build something meaningful!</i> ⭐
 </p>
