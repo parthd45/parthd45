@@ -1,19 +1,19 @@
 # Hi, I'm Parth Deshmukh 👋
 
-### Data Analytics Enthusiast | Python Developer | Web Developer
+### 📊 Data Analytics Enthusiast | 🐍 Python Developer | 🌐 Web Developer
 
-I'm a developer interested in Data Analytics, Data Science, Python, SQL and Web Development. I enjoy transforming raw data into meaningful insights and building practical applications.
+I'm a developer passionate about Data Analytics, Data Science, Python, SQL, and Web Development. I enjoy working with data, building applications, and turning ideas into practical solutions.
 
-- 📊 Data Analytics & Business Intelligence
-- 🐍 Python, NumPy, Pandas
-- 🗄️ SQL & Database Management
-- 📈 Tableau & Power BI
-- 🌐 Frontend & Backend Development
-- 💼 120-hour Web Development Internship at Ujwal Academy
+- 📊 Interested in Data Analytics & Business Intelligence
+- 🐍 Working with Python, NumPy & Pandas
+- 🗄️ Learning and working with SQL & Databases
+- 📈 Data Visualization using Tableau & Power BI
+- 🌐 Interested in Full-Stack Web Development
+- 💼 Completed a 120-hour Web Development Internship at Ujwal Academy
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
 **Programming Languages**
 
@@ -42,7 +42,7 @@ I'm a developer interested in Data Analytics, Data Science, Python, SQL and Web 
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
-**Development Tools**
+**Tools & Platforms**
 
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
@@ -51,77 +51,24 @@ I'm a developer interested in Data Analytics, Data Science, Python, SQL and Web 
 
 ---
 
-## 💼 Experience
-
-**Web Developer Intern — Ujwal Academy, Amravati**
-
-`January 2026 – April 2026` | `120 Hours`
-
-- Developed responsive website pages.
-- Worked on frontend components and functionality.
-- Tested and debugged website components.
-- Collaborated with the development team.
-
----
-
-## 🚀 Projects
-
-### Credit Card Customer Analytics Dashboard
-**Python | Pandas | Tableau**
-
-- Cleaned and prepared a dataset of 5,000 customer records.
-- Explored customer patterns and financial metrics.
-- Created five analytical sheets.
-- Developed an interactive Tableau dashboard.
-
-### DCPE ERP
-**Web Development**
-
-College ERP platform for academic and administrative workflows.
-
-🔗 [View Live Project](https://dcpe-erp.vercel.app/)
-
-### Automated Paperless Transparent College System
-**HTML | CSS | JavaScript | PHP | MySQL**
-
-- Student elections and online voting.
-- Election result management.
-- Health notifications.
-- Leave management.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=parthd45&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=parthd45&theme=transparent&hide_border=true" />
-</p>
-
-## 📈 Contribution Activity
+## 📊 GitHub Contributions
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=parthd45&theme=github-compact&hide_border=true" />
 </p>
 
-## 💻 Most Used Languages
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthd45&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthd45&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/parthd45">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/parth45">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthd45)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth45)
 
 ---
 
