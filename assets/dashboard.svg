@@ -8,7 +8,7 @@
 <line x1="55" y1="195" x2="1045" y2="195" stroke="#30363d" />
 <rect x="55" y="215" width="235" height="100" rx="14" fill="#161b22" stroke="#30363d" />
 <text x="75" y="245" fill="#8b949e" font-size="12" font-weight="bold" font-family="Arial, Helvetica, sans-serif">PUBLIC REPOSITORIES</text>
-<text x="75" y="287" fill="#58a6ff" font-size="29" font-weight="bold" font-family="Arial, Helvetica, sans-serif">27</text>
+<text x="75" y="287" fill="#58a6ff" font-size="29" font-weight="bold" font-family="Arial, Helvetica, sans-serif">28</text>
 <rect x="310" y="215" width="235" height="100" rx="14" fill="#161b22" stroke="#30363d" />
 <text x="330" y="245" fill="#8b949e" font-size="12" font-weight="bold" font-family="Arial, Helvetica, sans-serif">TOTAL STARS</text>
 <text x="330" y="287" fill="#39d353" font-size="29" font-weight="bold" font-family="Arial, Helvetica, sans-serif">5</text>
@@ -19,12 +19,11 @@
 <text x="840" y="245" fill="#8b949e" font-size="12" font-weight="bold" font-family="Arial, Helvetica, sans-serif">TOTAL FORKS</text>
 <text x="840" y="287" fill="#f0883e" font-size="29" font-weight="bold" font-family="Arial, Helvetica, sans-serif">5</text>
 <text x="55" y="270" fill="#e6edf3" font-size="17" font-weight="bold" font-family="Arial, Helvetica, sans-serif">CONTRIBUTION ACTIVITY</text>
-<text x="55" y="290" fill="#8b949e" font-size="12" font-weight="normal" font-family="Arial, Helvetica, sans-serif">452 contributions in the last year</text>
+<text x="55" y="290" fill="#8b949e" font-size="12" font-weight="normal" font-family="Arial, Helvetica, sans-serif">454 contributions in the last year</text>
 <text x="25" y="310" fill="#8b949e" font-size="9" font-weight="normal" font-family="Arial, Helvetica, sans-serif">Mon</text>
 <text x="25" y="342" fill="#8b949e" font-size="9" font-weight="normal" font-family="Arial, Helvetica, sans-serif">Wed</text>
 <text x="25" y="374" fill="#8b949e" font-size="9" font-weight="normal" font-family="Arial, Helvetica, sans-serif">Fri</text>
 <text x="25" y="406" fill="#8b949e" font-size="9" font-weight="normal" font-family="Arial, Helvetica, sans-serif">Sun</text>
-<rect x="65" y="396" width="12" height="12" rx="3" fill="#21262d"><title>2025-11-23: 0 contributions</title></rect>
 <rect x="65" y="300" width="12" height="12" rx="3" fill="#21262d"><title>2025-11-24: 0 contributions</title></rect>
 <rect x="65" y="316" width="12" height="12" rx="3" fill="#21262d"><title>2025-11-25: 0 contributions</title></rect>
 <rect x="65" y="332" width="12" height="12" rx="3" fill="#21262d"><title>2025-11-26: 0 contributions</title></rect>
@@ -388,8 +387,9 @@
 <rect x="881" y="348" width="12" height="12" rx="3" fill="#26a641"><title>2026-11-19: 8 contributions</title></rect>
 <rect x="881" y="364" width="12" height="12" rx="3" fill="#39d353"><title>2026-11-20: 13 contributions</title></rect>
 <rect x="881" y="380" width="12" height="12" rx="3" fill="#0e4429"><title>2026-11-21: 1 contributions</title></rect>
-<rect x="897" y="396" width="12" height="12" rx="3" fill="#21262d"><title>2026-11-22: 0 contributions</title></rect>
+<rect x="897" y="396" width="12" height="12" rx="3" fill="#0e4429"><title>2026-11-22: 2 contributions</title></rect>
 <rect x="897" y="300" width="12" height="12" rx="3" fill="#21262d"><title>2026-11-23: 0 contributions</title></rect>
+<rect x="897" y="316" width="12" height="12" rx="3" fill="#21262d"><title>2026-11-24: 0 contributions</title></rect>
 <text x="745" y="440" fill="#8b949e" font-size="10" font-weight="normal" font-family="Arial, Helvetica, sans-serif">Less</text>
 <rect x="790" y="430" width="12" height="12" rx="3" fill="#21262d" />
 <rect x="810" y="430" width="12" height="12" rx="3" fill="#0e4429" />
@@ -398,41 +398,41 @@
 <rect x="870" y="430" width="12" height="12" rx="3" fill="#39d353" />
 <text x="900" y="440" fill="#8b949e" font-size="10" font-weight="normal" font-family="Arial, Helvetica, sans-serif">More</text>
 <text x="55" y="525" fill="#e6edf3" font-size="17" font-weight="bold" font-family="Arial, Helvetica, sans-serif">TOP LANGUAGES</text>
-<rect x="55" y="550" width="207.00" height="12" rx="3" fill="#58a6ff" />
-<rect x="262.0" y="550" width="161.00" height="12" rx="3" fill="#bc8cff" />
-<rect x="423.0" y="550" width="23.00" height="12" rx="3" fill="#39d353" />
-<rect x="446.0" y="550" width="23.00" height="12" rx="3" fill="#f0883e" />
-<rect x="469.0" y="550" width="23.00" height="12" rx="3" fill="#f778ba" />
-<rect x="492.0" y="550" width="23.00" height="12" rx="3" fill="#79c0ff" />
+<rect x="55" y="550" width="219.05" height="12" rx="3" fill="#58a6ff" />
+<rect x="274.04761904761904" y="550" width="153.33" height="12" rx="3" fill="#bc8cff" />
+<rect x="427.38095238095235" y="550" width="21.90" height="12" rx="3" fill="#39d353" />
+<rect x="449.2857142857143" y="550" width="21.90" height="12" rx="3" fill="#f0883e" />
+<rect x="471.1904761904762" y="550" width="21.90" height="12" rx="3" fill="#f778ba" />
+<rect x="493.09523809523813" y="550" width="21.90" height="12" rx="3" fill="#79c0ff" />
 <circle cx="60" cy="586" r="5" fill="#58a6ff" />
-<text x="73" y="590" fill="#e6edf3" font-size="12" font-weight="normal" font-family="Arial, Helvetica, sans-serif">HTML  45.0%</text>
+<text x="73" y="590" fill="#e6edf3" font-size="12" font-weight="normal" font-family="Arial, Helvetica, sans-serif">HTML  47.6%</text>
 <circle cx="300" cy="586" r="5" fill="#bc8cff" />
-<text x="313" y="590" fill="#e6edf3" font-size="12" font-weight="normal" font-family="Arial, Helvetica, sans-serif">Python  35.0%</text>
+<text x="313" y="590" fill="#e6edf3" font-size="12" font-weight="normal" font-family="Arial, Helvetica, sans-serif">Python  33.3%</text>
 <circle cx="60" cy="614" r="5" fill="#39d353" />
-<text x="73" y="618" fill="#e6edf3" font-size="12" font-weight="normal" font-family="Arial, Helvetica, sans-serif">PLpgSQL  5.0%</text>
+<text x="73" y="618" fill="#e6edf3" font-size="12" font-weight="normal" font-family="Arial, Helvetica, sans-serif">PLpgSQL  4.8%</text>
 <circle cx="300" cy="614" r="5" fill="#f0883e" />
-<text x="313" y="618" fill="#e6edf3" font-size="12" font-weight="normal" font-family="Arial, Helvetica, sans-serif">JavaScript  5.0%</text>
+<text x="313" y="618" fill="#e6edf3" font-size="12" font-weight="normal" font-family="Arial, Helvetica, sans-serif">JavaScript  4.8%</text>
 <circle cx="60" cy="642" r="5" fill="#f778ba" />
-<text x="73" y="646" fill="#e6edf3" font-size="12" font-weight="normal" font-family="Arial, Helvetica, sans-serif">Jupyter Notebook  5.0%</text>
+<text x="73" y="646" fill="#e6edf3" font-size="12" font-weight="normal" font-family="Arial, Helvetica, sans-serif">Jupyter Notebook  4.8%</text>
 <circle cx="300" cy="642" r="5" fill="#79c0ff" />
-<text x="313" y="646" fill="#e6edf3" font-size="12" font-weight="normal" font-family="Arial, Helvetica, sans-serif">Java  5.0%</text>
+<text x="313" y="646" fill="#e6edf3" font-size="12" font-weight="normal" font-family="Arial, Helvetica, sans-serif">Java  4.8%</text>
 <text x="600" y="525" fill="#e6edf3" font-size="17" font-weight="bold" font-family="Arial, Helvetica, sans-serif">RECENT REPOSITORIES</text>
 <rect x="600" y="533" width="445" height="56" rx="9" fill="#111820" stroke="#30363d" />
-<text x="617" y="555" fill="#58a6ff" font-size="13" font-weight="bold" font-family="Arial, Helvetica, sans-serif">pattern-printing</text>
+<text x="617" y="555" fill="#58a6ff" font-size="13" font-weight="bold" font-family="Arial, Helvetica, sans-serif">Value_Added_Assignment_1</text>
 <text x="617" y="573" fill="#8b949e" font-size="10" font-weight="normal" font-family="Arial, Helvetica, sans-serif">No description provided</text>
-<text x="617" y="589" fill="#e6edf3" font-size="10" font-weight="normal" font-family="Arial, Helvetica, sans-serif">Python  |  ★ 0  |  Forks 0</text>
+<text x="617" y="589" fill="#e6edf3" font-size="10" font-weight="normal" font-family="Arial, Helvetica, sans-serif">HTML  |  ★ 0  |  Forks 0</text>
 <rect x="600" y="598" width="445" height="56" rx="9" fill="#111820" stroke="#30363d" />
-<text x="617" y="620" fill="#58a6ff" font-size="13" font-weight="bold" font-family="Arial, Helvetica, sans-serif">ProjectPartner</text>
+<text x="617" y="620" fill="#58a6ff" font-size="13" font-weight="bold" font-family="Arial, Helvetica, sans-serif">pattern-printing</text>
 <text x="617" y="638" fill="#8b949e" font-size="10" font-weight="normal" font-family="Arial, Helvetica, sans-serif">No description provided</text>
-<text x="617" y="654" fill="#e6edf3" font-size="10" font-weight="normal" font-family="Arial, Helvetica, sans-serif">Other  |  ★ 1  |  Forks 0</text>
+<text x="617" y="654" fill="#e6edf3" font-size="10" font-weight="normal" font-family="Arial, Helvetica, sans-serif">Python  |  ★ 0  |  Forks 0</text>
 <rect x="600" y="663" width="445" height="56" rx="9" fill="#111820" stroke="#30363d" />
-<text x="617" y="685" fill="#58a6ff" font-size="13" font-weight="bold" font-family="Arial, Helvetica, sans-serif">Javascript-day1</text>
+<text x="617" y="685" fill="#58a6ff" font-size="13" font-weight="bold" font-family="Arial, Helvetica, sans-serif">ProjectPartner</text>
 <text x="617" y="703" fill="#8b949e" font-size="10" font-weight="normal" font-family="Arial, Helvetica, sans-serif">No description provided</text>
-<text x="617" y="719" fill="#e6edf3" font-size="10" font-weight="normal" font-family="Arial, Helvetica, sans-serif">HTML  |  ★ 0  |  Forks 0</text>
+<text x="617" y="719" fill="#e6edf3" font-size="10" font-weight="normal" font-family="Arial, Helvetica, sans-serif">Other  |  ★ 1  |  Forks 0</text>
 <rect x="600" y="728" width="445" height="56" rx="9" fill="#111820" stroke="#30363d" />
-<text x="617" y="750" fill="#58a6ff" font-size="13" font-weight="bold" font-family="Arial, Helvetica, sans-serif">parthd45</text>
+<text x="617" y="750" fill="#58a6ff" font-size="13" font-weight="bold" font-family="Arial, Helvetica, sans-serif">Javascript-day1</text>
 <text x="617" y="768" fill="#8b949e" font-size="10" font-weight="normal" font-family="Arial, Helvetica, sans-serif">No description provided</text>
-<text x="617" y="784" fill="#e6edf3" font-size="10" font-weight="normal" font-family="Arial, Helvetica, sans-serif">Python  |  ★ 1  |  Forks 1</text>
+<text x="617" y="784" fill="#e6edf3" font-size="10" font-weight="normal" font-family="Arial, Helvetica, sans-serif">HTML  |  ★ 0  |  Forks 0</text>
 <line x1="55" y1="810" x2="1045" y2="810" stroke="#30363d" />
 <text x="55" y="835" fill="#8b949e" font-size="11" font-weight="normal" font-family="Arial, Helvetica, sans-serif">Generated automatically with GitHub Actions</text>
 <text x="1045" y="835" fill="#58a6ff" font-size="11" font-weight="normal" font-family="Arial, Helvetica, sans-serif">github.com/parthd45</text>
